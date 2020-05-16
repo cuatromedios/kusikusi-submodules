@@ -1,0 +1,9 @@
+[submodule "kusikusi-admin"]
+	path = kusikusi-admin
+	url = https://github.com/cuatromedios/kusikusi-admin.git
+[submodule "kusikusi-lib"]
+	path = kusikusi-lib
+	url = https://github.com/cuatromedios/kusikusi-lib.git
+[submodule "kusikusi"]
+	path = kusikusi
+	url = https://github.com/cuatromedios/kusikusi.git
